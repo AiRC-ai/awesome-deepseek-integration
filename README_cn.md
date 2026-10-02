@@ -474,7 +474,7 @@
     <tr>
         <td><img src="https://raw.githubusercontent.com/AiRC-ai/AiRC-Orchestration/main/assets/airc-orchestration.png" alt="AiRC Orchestration" width="64" height="auto" /></td>
         <td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td>
-        <td>支持 DeepSeek 的桌面应用，可在 macOS、Windows 和 Linux 上使用持久化项目会话、MCP 工具和人工监督的工作流。该软件为专有软件，可根据其公布的许可条款进行个人评估。</td>
+        <td>桌面 AI 智能体编排工具，让 DeepSeek 主导或参与可配置的跨模型提供商智能体团队，完成编程、研究和自动化任务，并提供持久化项目、工具和监督功能。该软件为专有软件，可根据其公布的许可条款进行个人评估。</td>
     </tr>
 </table>
 

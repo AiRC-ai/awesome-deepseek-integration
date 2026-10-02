@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://raw.githubusercontent.com/AiRC-ai/AiRC-Orchestration/main/assets/airc-orchestration.png" alt="AiRC Orchestration" width="64" height="auto" /></td>
         <td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td>
-        <td>Desktop application for using DeepSeek with persistent project sessions, MCP tools, and supervised workflows on macOS, Windows, and Linux. Proprietary software available for personal evaluation under its published license.</td>
+        <td>Desktop AI agent orchestrator that lets DeepSeek lead or join configurable, cross-provider agent swarms for coding, research, and automation, with persistent projects, tools, and supervision. Proprietary software available for personal evaluation under its published license.</td>
     </tr>
 </table>
 

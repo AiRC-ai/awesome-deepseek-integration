@@ -473,7 +473,7 @@
     <tr>
         <td><img src="https://raw.githubusercontent.com/AiRC-ai/AiRC-Orchestration/main/assets/airc-orchestration.png" alt="AiRC Orchestration" width="64" height="auto" /></td>
         <td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td>
-        <td>支援 DeepSeek 的桌面應用程式，可在 macOS、Windows 和 Linux 上使用持久化專案工作階段、MCP 工具及人工監督的工作流程。此軟體為專有軟體，可依其公布的授權條款進行個人評估。</td>
+        <td>桌面 AI 代理編排工具，讓 DeepSeek 主導或參與可設定的跨模型供應商代理團隊，執行程式開發、研究與自動化任務，並提供持久化專案、工具及監督功能。此軟體為專有軟體，可依其公布的授權條款進行個人評估。</td>
     </tr>
 </table>
 

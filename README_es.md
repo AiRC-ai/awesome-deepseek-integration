@@ -435,7 +435,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="https://raw.githubusercontent.com/AiRC-ai/AiRC-Orchestration/main/assets/airc-orchestration.png" alt="AiRC Orchestration" width="64" height="auto" /></td>
         <td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td>
-        <td>Aplicación de escritorio para usar DeepSeek con sesiones persistentes por proyecto, herramientas MCP y flujos de trabajo supervisados en macOS, Windows y Linux. Software propietario disponible para evaluación personal según su licencia publicada.</td>
+        <td>Orquestador de agentes de IA de escritorio que permite a DeepSeek dirigir o integrar equipos configurables de agentes de distintos proveedores para programación, investigación y automatización, con proyectos persistentes, herramientas y supervisión. Software propietario disponible para evaluación personal según su licencia publicada.</td>
     </tr>
 </table>
 

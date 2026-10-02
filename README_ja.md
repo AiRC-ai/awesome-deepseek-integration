@@ -407,7 +407,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td><img src="https://raw.githubusercontent.com/AiRC-ai/AiRC-Orchestration/main/assets/airc-orchestration.png" alt="AiRC Orchestration" width="64" height="auto" /></td>
         <td><a href="https://github.com/AiRC-ai/AiRC-Orchestration">AiRC Orchestration</a></td>
-        <td>macOS、Windows、Linux で DeepSeek を利用できるデスクトップアプリ。プロジェクトごとに保存されるセッション、MCP ツール、人間の監督下でのワークフローに対応。独自ライセンスのソフトウェアで、公開されたライセンス条件に基づき個人で評価できます。</td>
+        <td>DeepSeek が複数のモデルプロバイダーにまたがる設定可能なエージェントチームを率いたり、その一員として動作したりできるデスクトップ AI エージェント統括ツール。コーディング、調査、自動化に加え、永続的なプロジェクト、ツール、監督機能を提供。公開された独自ライセンスの条件に基づき個人で評価できます。</td>
     </tr>
 </table>
 
